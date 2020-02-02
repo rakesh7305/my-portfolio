@@ -4,6 +4,8 @@ phases:
   build:
     commands:
       - echo nothing to build yet
+    runtime-versions:
+      nodejs: 8
 artifacts:
   files:
     - '**/*'
