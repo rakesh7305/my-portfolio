@@ -9,4 +9,7 @@ phases:
       - echo nothing to build yet
 artifacts:
   files:
-    - '**/*'
+    - index.html
+    - favicon.ico
+    - styles/*
+    - images/*
