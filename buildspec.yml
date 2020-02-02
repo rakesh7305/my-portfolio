@@ -4,7 +4,6 @@ phases:
   install:
     runtime-versions:
       nodejs: 8
-      java: corretto8
   build:
     commands:
       - echo nothing to build yet
